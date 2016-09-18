@@ -1,0 +1,22 @@
+in javascript
+
+JRPG style game
+
+evil wizard taking color from the world (one color at a time)
+
+melee based game, ranged weapons available later
+
+pixelize character
+
+tile engine 
+
+movement
+
+npc/enemies
+
+dialog
+
+controls
+
+environment(trees, boulders, etc.)
+
